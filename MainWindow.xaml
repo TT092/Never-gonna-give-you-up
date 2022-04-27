@@ -1,0 +1,12 @@
+﻿<Window x:Class="你_被_骗_了.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:你_被_骗_了"
+        mc:Ignorable="d" Title="在线求三连" Width="800" Height="450">
+    <Grid>
+        <Button Content="你莫得选择，点我吧" HorizontalAlignment="Left" VerticalAlignment="Top" Width="728" Height="357" Margin="32,29,0,0" FontSize="24" Click="Button_Click"/>
+
+    </Grid>
+</Window>
